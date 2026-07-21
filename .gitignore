@@ -11,3 +11,5 @@ dist*
 _build/
 test*.md
 run.sh
+（已压缩）动手学深度学习(d2l-zh-pytorch).pdf
+uv.lock
